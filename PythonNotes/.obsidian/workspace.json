@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88a4606836367cd7",
+  "active": "6cca894ec1fd4419",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_4/Lectures/Integers_Operations.md",
+    "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
     "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
+    "PythonCourseNotes/Section_4/Lectures/Integers_Operations.md",
     "PythonCourseNotes/Section_4/Section 4.md",
     "PythonCourseNotes/PythonCourse Office.md",
     "PythonCourseNotes/Section_4/Lectures/Interger_Operations.md",
@@ -171,7 +169,6 @@
     "PythonCourseNotes/Section_3/Notes_PyOptIntStr/Python optimizations - String Interning.md",
     "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Python optimizations - Interning.md",
     "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
-    "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
     "PythonCourseNotes/Section_3/Notes_ObjectMutabilty/Object Mutability.md",
     "PythonCourseNotes/Section_3/Notes_Variable Equality/Variable Equality.md",
     "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability/Shared Reference and Mutability.md",

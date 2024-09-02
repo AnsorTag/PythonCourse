@@ -97,7 +97,3 @@
   - **Decorators**
   - **Closures**
 - These concepts will further demonstrate Python's power and flexibility.
-
----
-
-This format should work seamlessly in your Obsidian note-taking app, providing clear sections and code snippets for easy reference.
