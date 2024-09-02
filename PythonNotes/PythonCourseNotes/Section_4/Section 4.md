@@ -5,5 +5,9 @@
 - [[Integers_Data Types]]
 - [[Integers_Operations]]
 - [[Integers_Constructors and Bases - Lecture]]
-- [[Integers_Constructors and Bases - Coding]]
+- [[Rational Numbers - Lecture]]
+- [[Floats - Lecture]]
+- [[Floats.Equality Testing - Lecture]]
+- [[Floats.Coercing to Integers - Lecture]]
+- [[Floats.Rounding - Lecture]]
 - 

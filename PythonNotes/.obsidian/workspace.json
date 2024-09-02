@@ -11,20 +11,20 @@
             "id": "88a4606836367cd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "6cca894ec1fd4419",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md"
+              }
             }
           }
         ]
@@ -153,42 +157,42 @@
   },
   "active": "6cca894ec1fd4419",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
-    "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
-    "PythonCourseNotes/Section_4/Lectures/Integers_Operations.md",
     "PythonCourseNotes/Section_4/Section 4.md",
+    "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.Rounding - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Rounding",
+    "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers/Floats.Coercing to Integers - Code.md",
+    "PythonCourseNotes/Section_4/Lectures/Floats.Equality Testing - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Equality Testing/Floats.Equality Testing - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers",
+    "PythonCourseNotes/Section_4/Lectures/Floats - Lecture.md",
+    "PythonCourseNotes/Section_4/Lectures/Rational Numbers - Lecture.md",
     "PythonCourseNotes/PythonCourse Office.md",
+    "PythonCourseNotes/Section_4/Coding/Floats/Floats - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Floats Equality Testing",
+    "PythonCourseNotes/Section_4/Coding/Untitled.md",
+    "PythonCourseNotes/Section_4/Coding/Rational Numbers/Rational Numbers - Coding.md",
+    "PythonCourseNotes/Section_4/Coding/Rational Numbers/limit_denominator.md",
+    "PythonCourseNotes/Section_4/Coding/Rational Numbers/format fx.md",
+    "PythonCourseNotes/Section_4/Coding/Rational Numbers/denominator & numerator properties.md",
+    "PythonCourseNotes/Section_4/Coding/Floats",
+    "PythonCourseNotes/Section_4/Coding/Integers-Constructors and Bases/Python_Ternary Conditional Operator.md",
+    "PythonCourseNotes/Section_4/Coding/Integers-Constructors and Bases/Python_`divmod()` Function.md",
+    "PythonCourseNotes/Section_4/Coding/Integers-Constructors and Bases/Integers_Constructors and Bases - Coding.md",
+    "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Constructors and Bases - Lecture.md",
+    "PythonCourseNotes/Section_4/Lectures/Untitled",
+    "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases",
+    "PythonCourseNotes/Section_4/Coding/Rational Numbers",
+    "PythonCourseNotes/Section_4/Coding/Integers-Constructors and Bases",
+    "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Operations.md",
+    "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Data Types.md",
+    "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
     "PythonCourseNotes/Section_4/Lectures/Interger_Operations.md",
-    "PythonCourseNotes/Section_4/Lectures/Integers_Data Types.md",
     "PythonCourseNotes/Section_3/Notes_PyOptPeep/Python optimizations - Peephole.md",
     "PythonCourseNotes/Section_4/Coding",
     "PythonCourseNotes/Section_4/Lectures",
-    "PythonCourseNotes/Section_3/Section 3.md",
-    "PythonCourseNotes/Section_2/Section 2.md",
-    "PythonCourseNotes/Section_4",
-    "PythonCourseNotes/Section_3/Notes_PyOptIntStr/Python optimizations - String Interning.md",
-    "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Python optimizations - Interning.md",
-    "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
-    "PythonCourseNotes/Section_3/Notes_ObjectMutabilty/Object Mutability.md",
-    "PythonCourseNotes/Section_3/Notes_Variable Equality/Variable Equality.md",
-    "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability/Shared Reference and Mutability.md",
-    "PythonCourseNotes/Section_3/Notes_PyOptPeep",
-    "PythonCourseNotes/Section_3/Notes_PyOptIntStr",
-    "PythonCourseNotes/Section_3/Notes_PyOptInterning",
-    "PythonCourseNotes/Section_3/Notes_EverythingObject",
-    "PythonCourseNotes/Section_3/Notes_Variable Equality",
-    "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability",
-    "PythonNotes/Libraries.md",
-    "JavaScriptNotes/Bankist solo-project.md",
-    "PythonCourseNotes/Section_3/Notes_FunctionArguments/Function Arguments and Mutability.md",
-    "PythonCourseNotes/Section_3/Notes_FunctionArguments",
-    "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Variable Re-Assignment.md",
-    "PythonCourseNotes/Section_3/Notes_DynVSStatic/Dynamic vs. Static typing.md",
-    "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
-    "PythonCourseNotes/Section_3/Notes_ReferenceCounting/Reference Counting.md",
-    "PythonCourseNotes/Section_3/Notes_VariablesAndMemoryReferences/Variables and Memory References.md",
-    "PythonCourseNotes/Section_2/Notes_Classes/Classes.md",
-    "Git/git.md",
     "Untitled.canvas"
   ]
 }

@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#coding-lesson  ",
+      "color": {
+        "a": 1,
+        "rgb": 14723866
+      }
+    },
+    {
       "query": "tag:#data-structures  ",
       "color": {
         "a": 1,
@@ -71,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.840104166666667,
+  "lineSizeMultiplier": 0.508333333333333,
   "collapse-forces": false,
-  "centerStrength": 0.182291666666667,
-  "repelStrength": 11.3541666666667,
-  "linkStrength": 0.739583333333333,
-  "linkDistance": 216,
-  "scale": 0.19450022690616298,
+  "centerStrength": 0.3125,
+  "repelStrength": 15.2083333333333,
+  "linkStrength": 0.619791666666667,
+  "linkDistance": 86,
+  "scale": 0.19450022690616456,
   "close": true
 }
