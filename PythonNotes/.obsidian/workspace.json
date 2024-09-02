@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "78e1c84ae8dbb7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a498086e6403261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a4606836367cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cca894ec1fd4419",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dff2755bb3ec8243",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a96e90948897a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3714b309f9f2b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d856053bc02380ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f759eca9bbec95db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "929e49fe15f6f3fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8736c8c5e810093e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008e8349b5edd532",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9da25c4a7b543ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f074e6777be64c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9633aa033027b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88a4606836367cd7",
+  "lastOpenFiles": [
+    "PythonCourseNotes/Section_4/Lectures/Integers_Operations.md",
+    "PythonCourseNotes/Section_4/Lectures/Integers_Constructors and Bases - Lecture.md",
+    "PythonCourseNotes/Section_4/Section 4.md",
+    "PythonCourseNotes/PythonCourse Office.md",
+    "PythonCourseNotes/Section_4/Lectures/Interger_Operations.md",
+    "PythonCourseNotes/Section_4/Lectures/Integers_Data Types.md",
+    "PythonCourseNotes/Section_3/Notes_PyOptPeep/Python optimizations - Peephole.md",
+    "PythonCourseNotes/Section_4/Coding",
+    "PythonCourseNotes/Section_4/Lectures",
+    "PythonCourseNotes/Section_3/Section 3.md",
+    "PythonCourseNotes/Section_2/Section 2.md",
+    "PythonCourseNotes/Section_4",
+    "PythonCourseNotes/Section_3/Notes_PyOptIntStr/Python optimizations - String Interning.md",
+    "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Python optimizations - Interning.md",
+    "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
+    "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
+    "PythonCourseNotes/Section_3/Notes_ObjectMutabilty/Object Mutability.md",
+    "PythonCourseNotes/Section_3/Notes_Variable Equality/Variable Equality.md",
+    "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability/Shared Reference and Mutability.md",
+    "PythonCourseNotes/Section_3/Notes_PyOptPeep",
+    "PythonCourseNotes/Section_3/Notes_PyOptIntStr",
+    "PythonCourseNotes/Section_3/Notes_PyOptInterning",
+    "PythonCourseNotes/Section_3/Notes_EverythingObject",
+    "PythonCourseNotes/Section_3/Notes_Variable Equality",
+    "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability",
+    "PythonNotes/Libraries.md",
+    "JavaScriptNotes/Bankist solo-project.md",
+    "PythonCourseNotes/Section_3/Notes_FunctionArguments/Function Arguments and Mutability.md",
+    "PythonCourseNotes/Section_3/Notes_FunctionArguments",
+    "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Variable Re-Assignment.md",
+    "PythonCourseNotes/Section_3/Notes_DynVSStatic/Dynamic vs. Static typing.md",
+    "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
+    "PythonCourseNotes/Section_3/Notes_ReferenceCounting/Reference Counting.md",
+    "PythonCourseNotes/Section_3/Notes_VariablesAndMemoryReferences/Variables and Memory References.md",
+    "PythonCourseNotes/Section_2/Notes_Classes/Classes.md",
+    "Git/git.md",
+    "Untitled.canvas"
+  ]
+}
