@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88a4606836367cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PythonCourseNotes/Section_4/Lectures/Decimals.Performance Considerations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e83f9bb200abde1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+                "file": "PythonCourseNotes/Section_4/Lectures/Comparison Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +23,12 @@
             "id": "72b78aff3ac7fbcf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PythonCourseNotes/PythonCourse Office.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+                "file": "PythonCourseNotes/PythonCourse Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+                "file": "PythonCourseNotes/PythonCourse Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PythonCourseNotes/Section_4/Center Notes/Section 4.md"
+                "file": "PythonCourseNotes/PythonCourse Office.md"
               }
             }
           }
@@ -167,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3714b309f9f2b8fa",
+  "active": "72b78aff3ac7fbcf",
   "lastOpenFiles": [
+    "PythonCourseNotes/Section_4/Lectures/Comparison Operators.md",
+    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators/Booleans.Boolean Operators - Code.md",
+    "PythonCourseNotes/Section_4/Lectures/Booleans.Boolean Operators - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans Precedence and Short-Circuiting/Booleans.Precedence and ShortCircuiting - Code.md",
+    "PythonCourseNotes/Section_4/Lectures/Booleans.Precedence and ShortCircuiting - Lecture.md",
+    "PythonCourseNotes/Section_4/Lectures/Booleans.Truth Values - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans Truth Values/Booleans.Truth Values - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators",
+    "PythonCourseNotes/Section_4/Coding/Booleans Precedence and Short-Circuiting",
+    "PythonCourseNotes/Section_4/Center Notes/Booleans.md",
+    "PythonCourseNotes/Section_3/Notes_ReferenceCounting/Reference Counting.md",
+    "PythonCourseNotes/PythonCourse Office.md",
+    "PythonCourseNotes/Section_3/Section 3.md",
+    "PythonCourseNotes/Section_4/Lectures/Booleans - Lecture.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans/Booleans - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Booleans Truth Values",
+    "PythonCourseNotes/Section_4/Coding/Complex Numbers/Complex Numbers - Code.md",
+    "PythonCourseNotes/Section_4/Lectures/Complex Numbers - Lecture.md",
+    "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
+    "PythonCourseNotes/Section_4/Lectures/Decimals.Performance Considerations.md",
+    "PythonCourseNotes/Section_4/Coding/Complex Numbers",
     "PythonCourseNotes/Section_4/Center Notes",
     "PythonCourseNotes/Section_4/Center Notes/Integers.md",
-    "PythonCourseNotes/Section_4/Center Notes/Complex Numbers.md",
-    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
     "PythonCourseNotes/Section_4/Center Notes/Rational Numbers.md",
     "PythonCourseNotes/Section_4/Center Notes/Decimals - Center.md",
-    "PythonCourseNotes/Section_4/Lectures/Decimals.Performance Considerations.md",
     "PythonCourseNotes/Section_4/Lectures/Rational Numbers - Lecture.md",
-    "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
     "PythonCourseNotes/Section_4/Lectures/Decimals.Math Operations - Lecture.md",
     "PythonCourseNotes/Section_4/Coding/Decimals - Math Operations/Decimals.Math Operations - Code.md",
     "2024-09-03.md",
     "Untitled.canvas",
     "PythonCourseNotes/Section_4/Lectures/Floats.Equality Testing - Lecture.md",
-    "PythonCourseNotes/Section_4/Coding/Decimals - Constructors and Context/Decimals.Constructors and Context - Code.md",
     "PythonCourseNotes/Section_4/Coding/Decimals - Math Operations",
-    "PythonCourseNotes/Section_4/Lectures/Decimals.Constructors and Context - Lecture.md",
-    "PythonCourseNotes/Section_4/Lectures/Untitled.md",
-    "PythonCourseNotes/Section_4/Coding/Decimals/Decimals - Code.md",
     "PythonCourseNotes/Section_4/Coding/Decimals - Constructors and Context",
-    "PythonCourseNotes/Section_4/Lectures/Decimals - Lecture.md",
     "PythonCourseNotes/Section_4/Coding/Decimals",
-    "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.Rounding - Code.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.md",
     "PythonCourseNotes/Section_4/Coding/Floats Rounding",
-    "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers/Floats.Coercing to Integers - Code.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Equality Testing/Floats.Equality Testing - Code.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers",
-    "PythonCourseNotes/Section_4/Lectures/Floats - Lecture.md",
-    "PythonCourseNotes/PythonCourse Office.md",
-    "PythonCourseNotes/Section_4/Coding/Floats Equality Testing",
-    "PythonCourseNotes/Section_4/Coding/Floats",
-    "PythonCourseNotes/Section_4/Lectures/Untitled",
-    "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases",
-    "PythonCourseNotes/Section_4/Coding/Rational Numbers"
+    "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers"
   ]
 }

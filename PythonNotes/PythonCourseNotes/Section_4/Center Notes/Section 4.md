@@ -4,5 +4,6 @@
 
 - [[Integers]]
 - [[Rational Numbers]]
-- [[Complex Numbers]]
-- 
+- [[Complex Numbers - Lecture]]
+- [[Booleans]]
+- [[Comparison Operators]]
