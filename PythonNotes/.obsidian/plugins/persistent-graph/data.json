@@ -1,0 +1,430 @@
+{
+  "nodePositions": [
+    {
+      "id": "Git/git.md",
+      "x": -1094.3599853515625,
+      "y": -3591.85205078125
+    },
+    {
+      "id": "PythonCourseNotes/PythonCourse Office.md",
+      "x": 524.4952392578125,
+      "y": -297.2551574707031
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_BreakTryContinue/Break, Try, and Continue.md",
+      "x": 1793.6031494140625,
+      "y": 1352.784912109375
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_Classes/Classes.md",
+      "x": 1797.7081298828125,
+      "y": 505.7094421386719
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_Conditionals/Conditionals.md",
+      "x": 2178.513916015625,
+      "y": 607.3397827148438
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_ForLoop/For loops.md",
+      "x": 2125.698486328125,
+      "y": 1159.3851318359375
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_Multi-Line Statement and Strings/Multi-Line Statements and Strings.md",
+      "x": 1217.990234375,
+      "y": 970.8162231445312
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Callables.md",
+      "x": 2714.93017578125,
+      "y": 1922.96826171875
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Collections.md",
+      "x": 2642.09326171875,
+      "y": 2332.40771484375
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Numbers.md",
+      "x": 1903.7464599609375,
+      "y": 2356.7900390625
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Singleton Objects.md",
+      "x": 2263.547607421875,
+      "y": 2567.132080078125
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Type hierarchy.md",
+      "x": 2249.6494140625,
+      "y": 2053.97802734375
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_VariableNames/Variable Names.md",
+      "x": 1339.091064453125,
+      "y": 593.655029296875
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_WhileLoop/While Loop.md",
+      "x": 2377.06005859375,
+      "y": 915.764892578125
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Notes_functions/Functions.md",
+      "x": 1412.286376953125,
+      "y": 1321.43994140625
+    },
+    {
+      "id": "PythonCourseNotes/Section_2/Section 2.md",
+      "x": 1706.587890625,
+      "y": 905.754638671875
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_DynVSStatic/Dynamic vs. Static typing.md",
+      "x": 482.26629638671875,
+      "y": -1525.2413330078125
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
+      "x": 846.0012817382812,
+      "y": -2112.74267578125
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_FunctionArguments/Function Arguments and Mutability.md",
+      "x": 507.474853515625,
+      "y": -2731.19921875
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
+      "x": 645.2289428710938,
+      "y": -1841.1044921875
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_ObjectMutabilty/Object Mutability.md",
+      "x": -170.20973205566406,
+      "y": -1594.9996337890625
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_PyOptIntStr/Python optimizations - String Interning.md",
+      "x": -430.44671630859375,
+      "y": -2242.088134765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
+      "x": -23.75589942932129,
+      "y": -2312.228759765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_PyOptPeep/Python optimizations - Peephole.md",
+      "x": -324.9287109375,
+      "y": -1902.559326171875
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_ReferenceCounting/Reference Counting.md",
+      "x": 811.4232177734375,
+      "y": -2479.552001953125
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability/Shared Reference and Mutability.md",
+      "x": 140.1984100341797,
+      "y": -1446.612060546875
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Variable Re-Assignment.md",
+      "x": -237.8440399169922,
+      "y": -2614.204833984375
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_Variable Equality/Variable Equality.md",
+      "x": 424.2984313964844,
+      "y": -2353.9765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Notes_VariablesAndMemoryReferences/Variables and Memory References.md",
+      "x": 137.90109252929688,
+      "y": -2725.247314453125
+    },
+    {
+      "id": "PythonCourseNotes/Section_3/Section 3.md",
+      "x": 214.3104248046875,
+      "y": -1985.62158203125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Booleans.md",
+      "x": -2476.453125,
+      "y": 1122.220703125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Decimals - Center.md",
+      "x": -261.5755615234375,
+      "y": 2385.537353515625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
+      "x": -2467.378662109375,
+      "y": -77.09989929199219
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Integers.md",
+      "x": -1448.0872802734375,
+      "y": -796.7537841796875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Rational Numbers.md",
+      "x": -1163.3055419921875,
+      "y": 1149.51318359375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+      "x": -1071.578857421875,
+      "y": 404.6181640625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators/Booleans.Boolean Operators - Code.md",
+      "x": -2856.06298828125,
+      "y": 2362.742431640625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Booleans Precedence and Short-Circuiting/Booleans.Precedence and ShortCircuiting - Code.md",
+      "x": -2263.076904296875,
+      "y": 1994.7437744140625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Booleans Truth Values/Booleans.Truth Values - Code.md",
+      "x": -3577.947265625,
+      "y": 643.8212890625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Complex Numbers/Complex Numbers - Code.md",
+      "x": -221.06527709960938,
+      "y": 780.6218872070312
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Decimals - Constructors and Context/Decimals.Constructors and Context - Code.md",
+      "x": -205.00074768066406,
+      "y": 3570.507568359375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Decimals - Math Operations/Decimals.Math Operations - Code.md",
+      "x": 832.90478515625,
+      "y": 3200.59619140625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Decimals/Decimals - Code.md",
+      "x": 362.5694885253906,
+      "y": 1782.6031494140625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers/Floats.Coercing to Integers - Code.md",
+      "x": -3452.17431640625,
+      "y": -432.851806640625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Floats Equality Testing/Floats.Equality Testing - Code.md",
+      "x": -1985.569091796875,
+      "y": 570.986083984375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.Rounding - Code.md",
+      "x": -3050.757080078125,
+      "y": -1338.8853759765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Floats/Floats - Code.md",
+      "x": -2237.22802734375,
+      "y": -877.7562255859375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Integers_Constructors and Bases - Coding.md",
+      "x": -2059.547607421875,
+      "y": -2341.43017578125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Python_Ternary Conditional Operator.md",
+      "x": -1904.129638671875,
+      "y": -2726.145263671875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Python_`divmod()` Function.md",
+      "x": -2405.724609375,
+      "y": -2526.21044921875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/Rational Numbers - Coding.md",
+      "x": -1159.017333984375,
+      "y": 2318.85986328125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/denominator & numerator properties.md",
+      "x": -1365.0240478515625,
+      "y": 2811.114990234375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/format fx.md",
+      "x": -1533.2349853515625,
+      "y": 2419.146240234375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/limit_denominator.md",
+      "x": -963.0256958007812,
+      "y": 2671.436279296875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Booleans - Lecture.md",
+      "x": -2850.046875,
+      "y": 1216.9395751953125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Boolean Operators - Lecture.md",
+      "x": -2895.298583984375,
+      "y": 1892.8133544921875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Precedence and ShortCircuiting - Lecture.md",
+      "x": -2392.06005859375,
+      "y": 1608.256103515625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Truth Values - Lecture.md",
+      "x": -3207.608642578125,
+      "y": 864.658447265625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Comparison Operators.md",
+      "x": -867.5926513671875,
+      "y": 114.43574523925781
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Complex Numbers - Lecture.md",
+      "x": -526.4630126953125,
+      "y": 535.7993774414062
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Decimals - Lecture.md",
+      "x": 150.81581115722656,
+      "y": 2081.376953125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Constructors and Context - Lecture.md",
+      "x": -277.45294189453125,
+      "y": 3148.027099609375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Math Operations - Lecture.md",
+      "x": 488.68231201171875,
+      "y": 2895.704345703125
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Performance Considerations.md",
+      "x": -10.288532257080078,
+      "y": 2640.803466796875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Floats - Lecture.md",
+      "x": -2200.510009765625,
+      "y": -471.5088195800781
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
+      "x": -3057.72802734375,
+      "y": -247.32601928710938
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Floats.Equality Testing - Lecture.md",
+      "x": -2170.41064453125,
+      "y": 248.07296752929688
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
+      "x": -2872.030517578125,
+      "y": -886.1331176757812
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Constructors and Bases - Lecture.md",
+      "x": -1852.65966796875,
+      "y": -1734.2430419921875
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Data Types.md",
+      "x": -1090.1302490234375,
+      "y": -798.6712646484375
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Operations.md",
+      "x": -1502.349609375,
+      "y": -1208.3707275390625
+    },
+    {
+      "id": "PythonCourseNotes/Section_4/Lectures/Rational Numbers - Lecture.md",
+      "x": -1087.361328125,
+      "y": 1719.4921875
+    },
+    {
+      "id": "PythonNotes/APIs.md",
+      "x": 2653.21923828125,
+      "y": -1799.1563720703125
+    },
+    {
+      "id": "PythonNotes/Command-line arguments.md",
+      "x": 2544.408447265625,
+      "y": -1436.181884765625
+    },
+    {
+      "id": "PythonNotes/Dict.md",
+      "x": 1929.015625,
+      "y": -467.83001708984375
+    },
+    {
+      "id": "PythonNotes/How to make your own library.md",
+      "x": 3344.20751953125,
+      "y": -1051.9808349609375
+    },
+    {
+      "id": "PythonNotes/Libraries.md",
+      "x": 2863.128662109375,
+      "y": -1209.3927001953125
+    },
+    {
+      "id": "PythonNotes/Lists.md",
+      "x": 1888.249755859375,
+      "y": -1040.796142578125
+    },
+    {
+      "id": "PythonNotes/Packages.md",
+      "x": 3184.851806640625,
+      "y": -707.6030883789062
+    },
+    {
+      "id": "PythonNotes/Python.md",
+      "x": 1631.3912353515625,
+      "y": -730.3078002929688
+    },
+    {
+      "id": "PythonNotes/Random.md",
+      "x": 2814.102294921875,
+      "y": -793.4647827148438
+    },
+    {
+      "id": "PythonNotes/Slice.md",
+      "x": 3274.491455078125,
+      "y": -1437.0775146484375
+    },
+    {
+      "id": "PythonNotes/Statistics.md",
+      "x": 3020.128173828125,
+      "y": -1724.57275390625
+    },
+    {
+      "id": "PythonNotes/Try-except-else-pass.md",
+      "x": 1291.8746337890625,
+      "y": -545.6388549804688
+    },
+    {
+      "id": "PythonNotes/matchCase.md",
+      "x": 1484.562255859375,
+      "y": -1121.7161865234375
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}
