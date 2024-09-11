@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
+                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
+                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
+                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md"
+                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md"
               }
             }
           }
@@ -157,42 +157,42 @@
   },
   "active": "72b78aff3ac7fbcf",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_5/Lectures/9. Parameter Defaults BEWARE - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
-    "PythonCourseNotes/Section_5/Coding/8. Application - A simple Function Timer.md",
-    "PythonCourseNotes/Section_5/Coding/7. Putting it all Together - Code.md",
-    "PythonCourseNotes/Section_5/Lectures/8. Putting it all Together - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/7. kwargs - Lecture.md",
-    "PythonCourseNotes/Section_5/Coding/7. kwargs - Code.md",
-    "PythonCourseNotes/Section_5/Coding/6. Keyword Arguments - Code.md",
-    "PythonCourseNotes/Section_5/Lectures/6. Keyword Arguments - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/5. args - Lecture.md",
+    "PythonCourseNotes/Section_6/Section 6.md",
+    "PythonCourse Office.md",
+    "PythonCourseNotes/Section_6/Coding/9. Operator Module - Code.md",
+    "PythonCourseNotes/Section_7/Lectures",
+    "PythonCourseNotes/Section_7/Untitled.md",
+    "PythonCourseNotes/Section_7/Coding",
+    "PythonCourseNotes/Section_7",
+    "PythonCourseNotes/Section_6/Lectures/9. Operator Module - Lecture.md",
     "PythonCourseNotes/Section_5/Section 5.md",
-    "PythonCourseNotes/Section_5/Coding/5. args - Code.md",
-    "PythonCourseNotes/Section_2/Section 2.md",
-    "PythonCourseNotes/Section_5/Lectures/4. Extended Unpacking - Lecture.md",
-    "PythonCourseNotes/Section_5/Coding/4. Extended Unpacking - Code.md",
-    "PythonCourseNotes/Section_5/Coding/3. Unpacking Iterables - Code.md",
-    "PythonCourseNotes/Section_5/Lectures/3. Unpacking Iterables - Lecture.md",
-    "PythonCourseNotes/PythonCourse Office.md",
-    "PythonCourseNotes/Section_5/Coding/2. Positional and Keyword Arguments - Code.md",
-    "PythonCourseNotes/Section_5/Lectures/2. Positional and Keyword Arguments - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/8. Partial Functions - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/8. Partial Functions - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/7. Reduction Function - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/7. Reduction Function - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/5. Callables - Code.md",
+    "PythonCourseNotes/Section_6/Coding/6. Map, Filter, Zip, and List Comprehensions - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/6. Map, Filter, Zip, and List Comprehensions - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures/5. Callables - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
+    "PythonCourseNotes/Section_6/Coding/4. Function Introspection - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/4. Function Introspection - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/3. Lambdas and Sorting - Challenge.md",
+    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+    "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
+    "PythonCourseNotes/Section_4/Lectures/Decimals.Math Operations - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures/3. Lambdas and Sorting - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/2. Lambda Expressions - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/2. Lambda Expressions - Lecture.md",
+    "PythonCourseNotes/Section_6/Coding/1. Docstrings and annotations - Code.md",
+    "PythonCourseNotes/Section_6/Lectures/1. Docstrings and annotations - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures",
+    "PythonCourseNotes/Section_6/Coding",
+    "PythonCourseNotes/Section_6",
     "PythonCourseNotes/Section_5/Coding",
-    "PythonCourseNotes/Section_5/Lectures/1. Argument vs Parameter.md",
     "PythonCourseNotes/Section_5/Lectures",
-    "PythonCourseNotes/Section_4/Lectures/Comparison Operators.md",
     "PythonCourseNotes/Section_5",
     "PythonCourseNotes/Section_4/Untitled",
-    "PythonCourseNotes/Section_4/Coding/Booleans Truth Values/Booleans.Truth Values - Code.md",
-    "PythonCourseNotes/Section_4/Lectures/Booleans.Boolean Operators - Lecture.md",
-    "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators/Booleans.Boolean Operators - Code.md",
-    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
-    "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators",
-    "PythonCourseNotes/Section_4/Coding/Booleans Precedence and Short-Circuiting",
-    "PythonCourseNotes/Section_4/Coding/Booleans Truth Values",
-    "PythonCourseNotes/Section_4/Coding/Complex Numbers",
-    "PythonCourseNotes/Section_4/Center Notes",
-    "Untitled.canvas",
-    "PythonCourseNotes/Section_4/Coding/Decimals - Math Operations"
+    "Untitled.canvas"
   ]
 }
