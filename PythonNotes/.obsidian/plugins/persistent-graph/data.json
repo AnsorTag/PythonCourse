@@ -2,583 +2,733 @@
   "nodePositions": [
     {
       "id": "Git/git.md",
-      "x": -2583.033447265625,
-      "y": -3468.58056640625
+      "x": -2490.2099609375,
+      "y": 4181.4892578125
     },
     {
-      "id": "PythonCourseNotes/PythonCourse Office.md",
-      "x": 440.6992492675781,
-      "y": -781.2117309570312
+      "id": "PythonCourse Office.md",
+      "x": -994.0328369140625,
+      "y": -369.5823059082031
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_BreakTryContinue/Break, Try, and Continue.md",
-      "x": -929.1830444335938,
-      "y": -1361.7269287109375
+      "x": -414.7407531738281,
+      "y": -2032.0106201171875
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_Classes/Classes.md",
-      "x": -1593.3848876953125,
-      "y": -812.2965698242188
+      "x": -946.4423828125,
+      "y": -2385.099609375
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_Conditionals/Conditionals.md",
-      "x": -1574.51904296875,
-      "y": -1414.77294921875
+      "x": -1317.78662109375,
+      "y": -1673.07763671875
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_ForLoop/For loops.md",
-      "x": -1220.57958984375,
-      "y": -1666.0279541015625
+      "x": -1380.35400390625,
+      "y": -2088.1171875
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_Multi-Line Statement and Strings/Multi-Line Statements and Strings.md",
-      "x": -1951.2318115234375,
-      "y": -1454.8204345703125
+      "x": -564.936279296875,
+      "y": -2355.750244140625
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Callables.md",
-      "x": -1448.947998046875,
-      "y": 2.701249599456787
+      "x": -1780.260009765625,
+      "y": -3527.14404296875
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Collections.md",
-      "x": -706.4197998046875,
-      "y": 207.91390991210938
+      "x": -1413.936767578125,
+      "y": -3656.8310546875
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Numbers.md",
-      "x": -1114.5684814453125,
-      "y": 318.7703857421875
+      "x": -1055.784912109375,
+      "y": -3331.189453125
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Notes/Singleton Objects.md",
-      "x": -604.6806030273438,
-      "y": -190.5139923095703
+      "x": -1749.4737548828125,
+      "y": -3064.872802734375
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_TypeHierarchy/Type hierarchy.md",
-      "x": -1045.9140625,
-      "y": -154.08743286132812
+      "x": -1377.9896240234375,
+      "y": -3126.156005859375
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_VariableNames/Variable Names.md",
-      "x": -971.329833984375,
-      "y": -916.980712890625
+      "x": -1010.3072509765625,
+      "y": -1441.958740234375
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_WhileLoop/While Loop.md",
-      "x": -1630.9635009765625,
-      "y": -1776.7608642578125
+      "x": -389.60882568359375,
+      "y": -1667.694580078125
     },
     {
       "id": "PythonCourseNotes/Section_2/Notes_functions/Functions.md",
-      "x": -1896.9281005859375,
-      "y": -1052.381103515625
+      "x": -713.7410278320312,
+      "y": -1602.9718017578125
     },
     {
       "id": "PythonCourseNotes/Section_2/Section 2.md",
-      "x": -1301.5450439453125,
-      "y": -1137.380126953125
+      "x": -947.9463500976562,
+      "y": -1969.8795166015625
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_DynVSStatic/Dynamic vs. Static typing.md",
-      "x": 1144.913330078125,
-      "y": -2589.662353515625
+      "x": 136.37998962402344,
+      "y": -51.58297348022461
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_EverythingObject/Everything is an object.md",
-      "x": 179.9368133544922,
-      "y": -1951.9224853515625
+      "x": -221.56564331054688,
+      "y": 1238.89990234375
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_FunctionArguments/Function Arguments and Mutability.md",
-      "x": 474.70166015625,
-      "y": -1710.8160400390625
+      "x": 135.2676239013672,
+      "y": 1000.8818969726562
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
-      "x": 102.53948974609375,
-      "y": -2516.156494140625
+      "x": -363.7417297363281,
+      "y": 205.26397705078125
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_ObjectMutabilty/Object Mutability.md",
-      "x": 1046.4520263671875,
-      "y": -2930.412353515625
+      "x": 595.827880859375,
+      "y": 777.0596923828125
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_PyOptIntStr/Python optimizations - String Interning.md",
-      "x": 318.8037414550781,
-      "y": -2266.70849609375
+      "x": 152.57858276367188,
+      "y": 1382.7728271484375
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
-      "x": 682.9087524414062,
-      "y": -2676.02783203125
+      "x": -2.6530601978302,
+      "y": 248.7792510986328
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_PyOptPeep/Python optimizations - Peephole.md",
-      "x": 1235.1890869140625,
-      "y": -1909.2418212890625
+      "x": -319.3515930175781,
+      "y": 780.5030517578125
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_ReferenceCounting/Reference Counting.md",
-      "x": 1273.8033447265625,
-      "y": -2283.632080078125
+      "x": 494.48236083984375,
+      "y": 1125.0325927734375
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_Shared Reference and Mutability/Shared Reference and Mutability.md",
-      "x": 862.52880859375,
-      "y": -1919.7752685546875
+      "x": -567.2744750976562,
+      "y": 987.5965576171875
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_VarRe-assignment/Variable Re-Assignment.md",
-      "x": 327.87493896484375,
-      "y": -2849.94189453125
+      "x": 583.4227905273438,
+      "y": 450.76165771484375
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_Variable Equality/Variable Equality.md",
-      "x": 672.7544555664062,
-      "y": -3069.3349609375
+      "x": -602.5428466796875,
+      "y": 532.6995239257812
     },
     {
       "id": "PythonCourseNotes/Section_3/Notes_VariablesAndMemoryReferences/Variables and Memory References.md",
-      "x": 876.8007202148438,
-      "y": -1579.696044921875
+      "x": 467.6473388671875,
+      "y": 132.85116577148438
     },
     {
       "id": "PythonCourseNotes/Section_3/Section 3.md",
-      "x": 718.1909790039062,
-      "y": -2264.09716796875
+      "x": 38.16701126098633,
+      "y": 621.4971923828125
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Booleans.md",
-      "x": 1439.96240234375,
-      "y": 1316.9842529296875
+      "x": 3503.459716796875,
+      "y": -1235.4052734375
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Decimals - Center.md",
-      "x": -2543.594482421875,
-      "y": 342.1378173828125
+      "x": 3468.209716796875,
+      "y": 2067.407470703125
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
-      "x": -2053.23876953125,
-      "y": 2575.4775390625
+      "x": 1994.2874755859375,
+      "y": 3204.870849609375
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Integers.md",
-      "x": 149.49537658691406,
-      "y": 2110.782470703125
+      "x": 2921.93505859375,
+      "y": 140.0531463623047
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Rational Numbers.md",
-      "x": -1375.1982421875,
-      "y": 1431.0225830078125
+      "x": 2604.6767578125,
+      "y": 1512.9393310546875
     },
     {
       "id": "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
-      "x": 357.9361572265625,
-      "y": 813.6967163085938
+      "x": 2081.6259765625,
+      "y": -236.29861450195312
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Booleans - Boolean Operators/Booleans.Boolean Operators - Code.md",
-      "x": 1687.5654296875,
-      "y": 2572.73779296875
+      "x": 2696.73876953125,
+      "y": -1237.3551025390625
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Booleans Precedence and Short-Circuiting/Booleans.Precedence and ShortCircuiting - Code.md",
-      "x": 2437.81787109375,
-      "y": 1775.2158203125
+      "x": 4253.39404296875,
+      "y": -2026.3074951171875
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Booleans Truth Values/Booleans.Truth Values - Code.md",
-      "x": 1968.76123046875,
-      "y": 747.2701416015625
+      "x": 4622.595703125,
+      "y": -998.1100463867188
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Complex Numbers/Complex Numbers - Code.md",
-      "x": 555.6909790039062,
-      "y": 1595.833251953125
+      "x": 1862.0194091796875,
+      "y": 375.6618957519531
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Decimals - Constructors and Context/Decimals.Constructors and Context - Code.md",
-      "x": -3138.168212890625,
-      "y": -692.6549072265625
+      "x": 4058.259521484375,
+      "y": 1418.0404052734375
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Decimals - Math Operations/Decimals.Math Operations - Code.md",
-      "x": -3720.603271484375,
-      "y": -14.528631210327148
+      "x": 3611.33740234375,
+      "y": 3101.161376953125
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Decimals/Decimals - Code.md",
-      "x": -1910.5855712890625,
-      "y": 957.0086669921875
+      "x": 4471.03173828125,
+      "y": 2109.2705078125
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Floats Coercing to Integers/Floats.Coercing to Integers - Code.md",
-      "x": -2524.426513671875,
-      "y": 3518.373291015625
+      "x": 945.9573974609375,
+      "y": 3472.144775390625
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Floats Equality Testing/Floats.Equality Testing - Code.md",
-      "x": -1612.252685546875,
-      "y": 3554.456298828125
+      "x": 2821.70947265625,
+      "y": 3586.730224609375
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Floats Rounding/Floats.Rounding - Code.md",
-      "x": -3100.593994140625,
-      "y": 2692.54150390625
+      "x": 2177.048095703125,
+      "y": 4269.6708984375
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Floats/Floats - Code.md",
-      "x": -1292.914794921875,
-      "y": 2337.35546875
+      "x": 1261.3792724609375,
+      "y": 4285.955078125
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Integers_Constructors and Bases - Coding.md",
-      "x": -374.481689453125,
-      "y": 3364.08935546875
+      "x": 4168.56396484375,
+      "y": 391.7198181152344
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Python_Ternary Conditional Operator.md",
-      "x": -262.483642578125,
-      "y": 3744.99755859375
+      "x": 4487.90234375,
+      "y": 125.13822937011719
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Integers - Constructors and Bases/Python_`divmod()` Function.md",
-      "x": -699.836181640625,
-      "y": 3650.952880859375
+      "x": 4511.2919921875,
+      "y": 611.5565795898438
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/Rational Numbers - Coding.md",
-      "x": -3060.71923828125,
-      "y": 1586.3551025390625
+      "x": 1681.5107421875,
+      "y": 1817.984130859375
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/denominator & numerator properties.md",
-      "x": -3601.58642578125,
-      "y": 1560.4661865234375
+      "x": 1974.4373779296875,
+      "y": 2089.942626953125
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/format fx.md",
-      "x": -3338.8818359375,
-      "y": 1258.0849609375
+      "x": 1283.5302734375,
+      "y": 1983.003662109375
     },
     {
       "id": "PythonCourseNotes/Section_4/Coding/Rational Numbers/limit_denominator.md",
-      "x": -3325.998779296875,
-      "y": 1894.2080078125
+      "x": 1542.43017578125,
+      "y": 2285.24072265625
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Booleans - Lecture.md",
-      "x": 1377.3448486328125,
-      "y": 1646.6876220703125
+      "x": 3632.629150390625,
+      "y": -918.1544189453125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Boolean Operators - Lecture.md",
-      "x": 1605.2686767578125,
-      "y": 2139.2783203125
+      "x": 3073.89892578125,
+      "y": -1314.5704345703125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Precedence and ShortCircuiting - Lecture.md",
-      "x": 2071.641357421875,
-      "y": 1561.3544921875
+      "x": 3924.495849609375,
+      "y": -1754.7762451171875
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Booleans.Truth Values - Lecture.md",
-      "x": 1592.709228515625,
-      "y": 849.7221069335938
+      "x": 4206.04833984375,
+      "y": -1101.9840087890625
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Comparison Operators.md",
-      "x": 32.53819274902344,
-      "y": 850.8661499023438
+      "x": 1882.127197265625,
+      "y": -605.2985229492188
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Complex Numbers - Lecture.md",
-      "x": 474.38421630859375,
-      "y": 1224.689697265625
+      "x": 1760.1480712890625,
+      "y": -5.341746807098389
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Decimals - Lecture.md",
-      "x": -2251.361328125,
-      "y": 736.9403076171875
+      "x": 4060.66748046875,
+      "y": 2201.75390625
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Constructors and Context - Lecture.md",
-      "x": -2888.28173828125,
-      "y": -297.3089904785156
+      "x": 3690.705322265625,
+      "y": 1623.623779296875
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Math Operations - Lecture.md",
-      "x": -3321.9375,
-      "y": 175.18861389160156
+      "x": 3565.4951171875,
+      "y": 2688.647705078125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Decimals.Performance Considerations.md",
-      "x": -2872.021484375,
-      "y": 498.9783630371094
+      "x": 3143.30517578125,
+      "y": 2217.95556640625
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Floats - Lecture.md",
-      "x": -1675.91796875,
-      "y": 2339.5595703125
+      "x": 1548.9287109375,
+      "y": 3896.90234375
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
-      "x": -2364.97998046875,
-      "y": 3132.41845703125
+      "x": 1368.201904296875,
+      "y": 3334.321044921875
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Floats.Equality Testing - Lecture.md",
-      "x": -1716.8031005859375,
-      "y": 3131.054443359375
+      "x": 2519.80078125,
+      "y": 3290.2158203125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Floats.Rounding - Lecture.md",
-      "x": -2670.9453125,
-      "y": 2581.872802734375
+      "x": 2155.875244140625,
+      "y": 3840.11572265625
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Constructors and Bases - Lecture.md",
-      "x": -80.06204986572266,
-      "y": 2862.45654296875
+      "x": 3589.825439453125,
+      "y": 321.01885986328125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Data Types.md",
-      "x": -213.53030395507812,
-      "y": 2168.31884765625
+      "x": 2961.888916015625,
+      "y": -195.07208251953125
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Integers-Constructors and Bases/Integers_Operations.md",
-      "x": 391.4769592285156,
-      "y": 2464.896728515625
+      "x": 2920.236083984375,
+      "y": 500.0459899902344
     },
     {
       "id": "PythonCourseNotes/Section_4/Lectures/Rational Numbers - Lecture.md",
-      "x": -2244.027587890625,
-      "y": 1583.2347412109375
+      "x": 2149.3369140625,
+      "y": 1477.4970703125
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/2. Positional and Keyword Arguments - Code.md",
-      "x": -1753.158447265625,
-      "y": -3587.69287109375
+      "x": -2417.92138671875,
+      "y": -500.85198974609375
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/3. Unpacking Iterables - Code.md",
-      "x": -556.5697631835938,
-      "y": -4125.42724609375
+      "x": -4019.85546875,
+      "y": -2462.731689453125
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/4. Extended Unpacking - Code.md",
-      "x": 1315.19287109375,
-      "y": 3555.76708984375
+      "x": -2779.92431640625,
+      "y": -3231
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/5. args - Code.md",
-      "x": 3287.572265625,
-      "y": 1075.42236328125
+      "x": -3473.07666015625,
+      "y": -3152.17236328125
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/6. Keyword Arguments - Code.md",
-      "x": 4115.1806640625,
-      "y": -1215.5814208984375
+      "x": -4298.6162109375,
+      "y": -1623.053466796875
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/7. Putting it all Together - Code.md",
-      "x": -3326.43603515625,
-      "y": -2135.020263671875
+      "x": -3970.096435546875,
+      "y": -903.63818359375
     },
     {
       "id": "PythonCourseNotes/Section_5/Coding/8. Application - A simple Function Timer.md",
-      "x": -2850.39892578125,
-      "y": -2866.08349609375
+      "x": -2999.294921875,
+      "y": 3666.71533203125
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/1. Argument vs Parameter.md",
-      "x": -967.5947875976562,
-      "y": -3148.26171875
+      "x": -2949.62353515625,
+      "y": -1995.5770263671875
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
-      "x": 4217.69775390625,
-      "y": 84.56111145019531
+      "x": -2327.1396484375,
+      "y": -1377.373046875
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/2. Positional and Keyword Arguments - Lecture.md",
-      "x": -1477.0078125,
-      "y": -3271.78515625
+      "x": -2636.197998046875,
+      "y": -897.7496948242188
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/3. Unpacking Iterables - Lecture.md",
-      "x": -702.5787353515625,
-      "y": -3702.916259765625
+      "x": -3583.64013671875,
+      "y": -2166.113525390625
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/4. Extended Unpacking - Lecture.md",
-      "x": 1379.681884765625,
-      "y": 3904.794677734375
+      "x": -2739.69091796875,
+      "y": -2626.813720703125
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/5. args - Lecture.md",
-      "x": 3519.6201171875,
-      "y": 1326.5711669921875
+      "x": -3261.48681640625,
+      "y": -2626.476806640625
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/6. Keyword Arguments - Lecture.md",
-      "x": 4147.91015625,
-      "y": -863.515625
+      "x": -3763.420166015625,
+      "y": -1648.24267578125
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/7. kwargs - Lecture.md",
-      "x": 4230.93212890625,
-      "y": 1078.036376953125
+      "x": -3046.025146484375,
+      "y": -1377.2261962890625
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/8. Putting it all Together - Lecture.md",
-      "x": -3426.930908203125,
-      "y": -2465.614990234375
+      "x": -3509.12353515625,
+      "y": -1111.5399169921875
     },
     {
       "id": "PythonCourseNotes/Section_5/Lectures/9. Parameter Defaults BEWARE - Lecture.md",
-      "x": 3917.581298828125,
-      "y": 252.96218872070312
+      "x": -2362.59912109375,
+      "y": -1793.5911865234375
     },
     {
       "id": "PythonCourseNotes/Section_5/Section 5.md",
-      "x": -832.1805419921875,
-      "y": -2789.192626953125
+      "x": -2841.825439453125,
+      "y": -1660.379638671875
     },
     {
       "id": "PythonCourseNotes/Section_6/Coding/1. Docstrings and annotations - Code.md",
-      "x": 2895.3505859375,
-      "y": 151.0363006591797
+      "x": -3310.029052734375,
+      "y": 2560.870361328125
     },
     {
       "id": "PythonCourseNotes/Section_6/Coding/2. Lambda Expressions - Code.md",
-      "x": 3687.320556640625,
-      "y": 2187.062255859375
+      "x": -2636.419189453125,
+      "y": 2353.93701171875
     },
     {
       "id": "PythonCourseNotes/Section_6/Coding/3. Lambdas and Sorting - Challenge.md",
-      "x": 2998.595458984375,
-      "y": 3012.52783203125
+      "x": -4471.42578125,
+      "y": 1579.08544921875
     },
     {
       "id": "PythonCourseNotes/Section_6/Coding/4. Function Introspection - Code.md",
-      "x": 572.4073486328125,
-      "y": 4061.2900390625
+      "x": -4289.07861328125,
+      "y": 33.31990432739258
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Coding/6. Map, Filter, Zip, and List Comprehensions - Code.md",
+      "x": -3995.100341796875,
+      "y": 2274.639404296875
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Coding/7. Reduction Function - Code.md",
+      "x": -4641.5771484375,
+      "y": 710.5821533203125
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Coding/8. Partial Functions - Code.md",
+      "x": -3062.6513671875,
+      "y": 71.34146881103516
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Coding/9. Operator Module - Code.md",
+      "x": -2094.47412109375,
+      "y": 1334.2718505859375
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/1. Docstrings and annotations - Lecture.md",
-      "x": 2393.28466796875,
-      "y": 118.19364166259766
+      "x": -3284.4287109375,
+      "y": 1962.4530029296875
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/2. Lambda Expressions - Lecture.md",
-      "x": 3346.3671875,
-      "y": 2273.35400390625
+      "x": -2807.5673828125,
+      "y": 1818.5867919921875
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/3. Lambdas and Sorting - Lecture.md",
-      "x": 2699.615966796875,
-      "y": 3183.888427734375
+      "x": -4024.304931640625,
+      "y": 1326.958251953125
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/4. Function Introspection - Lecture.md",
-      "x": 376.2472839355469,
-      "y": 4350.0517578125
-    },
-    {
-      "id": "PythonCourseNotes/Section_6/Section 6.md",
-      "x": 1290.34326171875,
-      "y": -203.06533813476562
-    },
-    {
-      "id": "PythonNotes/APIs.md",
-      "x": 2447.18603515625,
-      "y": -2532.30859375
-    },
-    {
-      "id": "PythonNotes/Command-line arguments.md",
-      "x": 2401.7841796875,
-      "y": -2963.662353515625
-    },
-    {
-      "id": "PythonNotes/Dict.md",
-      "x": 2643.818115234375,
-      "y": -1346.9014892578125
-    },
-    {
-      "id": "PythonNotes/How to make your own library.md",
-      "x": 3270.57666015625,
-      "y": -2344.62060546875
-    },
-    {
-      "id": "PythonNotes/Libraries.md",
-      "x": 2814.289794921875,
-      "y": -2587.06591796875
-    },
-    {
-      "id": "PythonNotes/Lists.md",
-      "x": 2699.0166015625,
-      "y": -975.9441528320312
-    },
-    {
-      "id": "PythonNotes/Packages.md",
-      "x": 2892.637939453125,
-      "y": -2169.484130859375
-    },
-    {
-      "id": "PythonNotes/Python.md",
-      "x": 2223.060546875,
-      "y": -1274.5863037109375
-    },
-    {
-      "id": "PythonNotes/Random.md",
-      "x": 3260.5595703125,
-      "y": -2747.97265625
-    },
-    {
-      "id": "PythonNotes/Slice.md",
-      "x": 2653.2626953125,
-      "y": -3200.045166015625
-    },
-    {
-      "id": "PythonNotes/Statistics.md",
-      "x": 2994.594970703125,
-      "y": -3044.5537109375
-    },
-    {
-      "id": "PythonNotes/Try-except-else-pass.md",
-      "x": 1988.721923828125,
-      "y": -947.4014892578125
-    },
-    {
-      "id": "PythonNotes/matchCase.md",
-      "x": 2355.173095703125,
-      "y": -777.5027465820312
+      "x": -3868.942138671875,
+      "y": 370.3218994140625
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/5. Callables - Lecture.md",
-      "x": -4230.52490234375,
-      "y": -950.1809692382812
-    },
-    {
-      "id": "PythonCourseNotes/Section_6/Coding/5. Callables - Code.md",
-      "x": -3877.64208984375,
-      "y": -1624.31884765625
-    },
-    {
-      "id": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
-      "x": 2151.9501953125,
-      "y": 3696.19775390625
+      "x": -3225.02001953125,
+      "y": 1306.7645263671875
     },
     {
       "id": "PythonCourseNotes/Section_6/Lectures/6. Map, Filter, Zip, and List Comprehensions - Lecture.md",
-      "x": -4449.59912109375,
-      "y": 224.5240936279297
+      "x": -3751.42138671875,
+      "y": 1780.276123046875
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Lectures/7. Reduction Function - Lecture.md",
+      "x": -4130.62060546875,
+      "y": 812.2980346679688
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Lectures/8. Partial Functions - Lecture.md",
+      "x": -3141.007568359375,
+      "y": 444.73675537109375
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Lectures/9. Operator Module - Lecture.md",
+      "x": -2485.41552734375,
+      "y": 1139.5186767578125
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
+      "x": -2938.15673828125,
+      "y": 872.9724731445312
+    },
+    {
+      "id": "PythonCourseNotes/Section_6/Section 6.md",
+      "x": -3320.81982421875,
+      "y": 986.2686157226562
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/1. Decorator (Timer) - Application.md",
+      "x": 2957.933349609375,
+      "y": -2593.489990234375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Coding/1. Global & Local Scopes - Code.md",
+      "x": 381.4757080078125,
+      "y": -3143.035400390625
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Coding/2. Nonlocal Scopes - Code.md",
+      "x": 95.88103485107422,
+      "y": -4369.818359375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Coding/3. Closures - Code.md",
+      "x": -369.8032531738281,
+      "y": -4085.719970703125
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Coding/4. Decorators (Part 1) - Code.md",
+      "x": -359.10125732421875,
+      "y": -4568.38330078125
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/1. Global & Local Scopes - Lecture.md",
+      "x": 1115.7384033203125,
+      "y": -3304.5810546875
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/2. Nonlocal Scopes - Lecture.md",
+      "x": 994.855224609375,
+      "y": -4611.0771484375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/3. Closures - Lecture.md",
+      "x": 586.1668701171875,
+      "y": -4184.81591796875
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/4. Closure Application (Part 1) - Lecture.md",
+      "x": 1593.5428466796875,
+      "y": -4395.26953125
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/5. Closure Application (Part 2) - Lecture.md",
+      "x": 1729.62548828125,
+      "y": -4023.073486328125
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/6.  Decorators (Part 1) - Lecture.md",
+      "x": 516.9043579101562,
+      "y": -4737.787109375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Section 7.md",
+      "x": 804.3407592773438,
+      "y": -2412.133544921875
+    },
+    {
+      "id": "PythonNotes/APIs.md",
+      "x": -1151.0311279296875,
+      "y": 3681.06787109375
+    },
+    {
+      "id": "PythonNotes/Command-line arguments.md",
+      "x": -780.6724853515625,
+      "y": 4450.4267578125
+    },
+    {
+      "id": "PythonNotes/Dict.md",
+      "x": -1549.4930419921875,
+      "y": 2216.1787109375
+    },
+    {
+      "id": "PythonNotes/How to make your own library.md",
+      "x": -1350.2432861328125,
+      "y": 4035.064697265625
+    },
+    {
+      "id": "PythonNotes/Libraries.md",
+      "x": -837.648681640625,
+      "y": 3927.663818359375
+    },
+    {
+      "id": "PythonNotes/Lists.md",
+      "x": -1443.021728515625,
+      "y": 2609.91552734375
+    },
+    {
+      "id": "PythonNotes/Packages.md",
+      "x": -1134.57421875,
+      "y": 4347.11865234375
+    },
+    {
+      "id": "PythonNotes/Python.md",
+      "x": -1147.5482177734375,
+      "y": 2171.23876953125
+    },
+    {
+      "id": "PythonNotes/Random.md",
+      "x": -319.4898986816406,
+      "y": 3982.550537109375
+    },
+    {
+      "id": "PythonNotes/Slice.md",
+      "x": -549.01171875,
+      "y": 3652.238037109375
+    },
+    {
+      "id": "PythonNotes/Statistics.md",
+      "x": -434.6517639160156,
+      "y": 4331.5205078125
+    },
+    {
+      "id": "PythonNotes/Try-except-else-pass.md",
+      "x": -765.0825805664062,
+      "y": 2304.222900390625
+    },
+    {
+      "id": "PythonNotes/matchCase.md",
+      "x": -995.5618896484375,
+      "y": 2621.275634765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/2. Decorator (Logger, Stacked Decorators) - Application.md",
+      "x": 2708.536376953125,
+      "y": -2330.57568359375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/3. Decorator (Memoization) - Application.md",
+      "x": 2957.746826171875,
+      "y": -2935.369873046875
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Lectures/7. Decorator Factories - Lecture.md",
+      "x": 1005.845947265625,
+      "y": -3711.61083984375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Coding/5. Decorator Factories - Code.md",
+      "x": 352.1915588378906,
+      "y": -3605.9609375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/4. Decorator (Decorator Class) - Application.md",
+      "x": 2006.4071044921875,
+      "y": -2346.68505859375
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/5. Decorator (Decorating Classes) - Application.md",
+      "x": 2347.294189453125,
+      "y": -2177.41064453125
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/6. Decorator (Dispatching) Part 1 - Application.md",
+      "x": 2018.946533203125,
+      "y": -2781.87890625
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/7. Decorator (Dispatching) Part 2 - Application.md",
+      "x": 2709.644775390625,
+      "y": -3174.14306640625
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Application/8. Decorator (Dispatching) Part 3 - Application.md",
+      "x": 2349.7861328125,
+      "y": -3114.0576171875
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Application.md",
+      "x": 2398.781005859375,
+      "y": -2668.172607421875
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Coding.md",
+      "x": -116.28923797607422,
+      "y": -3660.322509765625
+    },
+    {
+      "id": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+      "x": 1253.6298828125,
+      "y": -4035.27734375
     }
   ],
   "automaticallyRestoreNodePositions": false

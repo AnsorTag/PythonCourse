@@ -7,3 +7,4 @@
 - [[Section 4]]
 - [[Section 5]]
 - [[Section 6]]
+- [[Section 7]]

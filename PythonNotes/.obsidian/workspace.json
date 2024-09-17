@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
+                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
+                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
+                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md"
+                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md"
               }
             }
           }
@@ -157,42 +157,42 @@
   },
   "active": "72b78aff3ac7fbcf",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_6/Section 6.md",
+    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Coding.md",
+    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Application.md",
+    "PythonCourseNotes/Section_7/Application/1. Decorator (Timer) - Application.md",
+    "PythonCourseNotes/Section_7/Application/2. Decorator (Logger, Stacked Decorators) - Application.md",
+    "PythonCourseNotes/Section_7/Section 7.md",
+    "PythonCourseNotes/Section_7/Center Notes",
+    "PythonCourseNotes/Section_7/Center Notes.md",
+    "PythonCourseNotes/Section_7/Application/8. Decorator (Dispatching) Part 3 - Application.md",
+    "PythonCourseNotes/Section_7/Application/7. Decorator (Dispatching) Part 2 - Application.md",
+    "PythonCourseNotes/Section_7/Application/6. Decorator (Dispatching) Part 1 - Application.md",
+    "PythonCourseNotes/Section_7/Application/5. Decorator (Decorating Classes) - Application.md",
+    "PythonCourseNotes/Section_7/Application/4. Decorator (Decorator Class) - Application.md",
+    "PythonCourseNotes/Section_7/Coding/5. Decorator Factories - Code.md",
+    "PythonCourseNotes/Section_7/Lectures/7. Decorator Factories - Lecture.md",
+    "PythonCourseNotes/Section_7/Application/3. Decorator (Memoization) - Application.md",
+    "PythonCourseNotes/Section_7/Lectures/6.  Decorators (Part 1) - Lecture.md",
+    "PythonCourseNotes/Section_7/Application",
+    "PythonCourseNotes/Section_7/Coding/4. Decorators (Part 1) - Code.md",
+    "PythonCourseNotes/Section_7/Lectures/5. Closure Application (Part 2) - Lecture.md",
+    "PythonCourseNotes/Section_7/Lectures/4. Closure Application (Part 1) - Lecture.md",
+    "PythonCourseNotes/Section_7/Coding/4. Closure Application - Code.md",
+    "PythonCourseNotes/Section_7/Coding/3. Closures - Code.md",
+    "PythonCourseNotes/Section_7/Lectures/3. Closures - Lecture.md",
+    "PythonCourseNotes/Section_7/Coding/2. Nonlocal Scopes - Code.md",
+    "PythonCourseNotes/Section_7/Coding/1. Global & Local Scopes - Code.md",
     "PythonCourse Office.md",
-    "PythonCourseNotes/Section_6/Coding/9. Operator Module - Code.md",
+    "PythonCourseNotes/Section_7/Lectures/2. Nonlocal Scopes - Lecture.md",
     "PythonCourseNotes/Section_7/Lectures",
-    "PythonCourseNotes/Section_7/Untitled.md",
     "PythonCourseNotes/Section_7/Coding",
     "PythonCourseNotes/Section_7",
-    "PythonCourseNotes/Section_6/Lectures/9. Operator Module - Lecture.md",
-    "PythonCourseNotes/Section_5/Section 5.md",
-    "PythonCourseNotes/Section_6/Coding/8. Partial Functions - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/8. Partial Functions - Lecture.md",
-    "PythonCourseNotes/Section_6/Coding/7. Reduction Function - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/7. Reduction Function - Lecture.md",
-    "PythonCourseNotes/Section_6/Coding/5. Callables - Code.md",
-    "PythonCourseNotes/Section_6/Coding/6. Map, Filter, Zip, and List Comprehensions - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/6. Map, Filter, Zip, and List Comprehensions - Lecture.md",
-    "PythonCourseNotes/Section_6/Lectures/5. Callables - Lecture.md",
-    "PythonCourseNotes/Section_6/Lectures/Function vs. Method.md",
-    "PythonCourseNotes/Section_6/Coding/4. Function Introspection - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/4. Function Introspection - Lecture.md",
-    "PythonCourseNotes/Section_6/Coding/3. Lambdas and Sorting - Challenge.md",
-    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
-    "PythonCourseNotes/Section_4/Lectures/Floats.Coercing to Integers - Lecture.md",
-    "PythonCourseNotes/Section_4/Lectures/Decimals.Math Operations - Lecture.md",
-    "PythonCourseNotes/Section_6/Lectures/3. Lambdas and Sorting - Lecture.md",
-    "PythonCourseNotes/Section_6/Coding/2. Lambda Expressions - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/2. Lambda Expressions - Lecture.md",
-    "PythonCourseNotes/Section_6/Coding/1. Docstrings and annotations - Code.md",
-    "PythonCourseNotes/Section_6/Lectures/1. Docstrings and annotations - Lecture.md",
     "PythonCourseNotes/Section_6/Lectures",
     "PythonCourseNotes/Section_6/Coding",
     "PythonCourseNotes/Section_6",
     "PythonCourseNotes/Section_5/Coding",
     "PythonCourseNotes/Section_5/Lectures",
-    "PythonCourseNotes/Section_5",
-    "PythonCourseNotes/Section_4/Untitled",
     "Untitled.canvas"
   ]
 }
