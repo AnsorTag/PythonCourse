@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 428.5
   },
   "right": {
     "id": "929e49fe15f6f3fa",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md"
+                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,44 +155,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b78aff3ac7fbcf",
+  "active": "3714b309f9f2b8fa",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
-    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Coding.md",
-    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Application.md",
-    "PythonCourseNotes/Section_7/Application/1. Decorator (Timer) - Application.md",
-    "PythonCourseNotes/Section_7/Application/2. Decorator (Logger, Stacked Decorators) - Application.md",
+    "PythonCourseNotes/Section_8/Coding/1. Tuples as Data Structures - Code.md",
+    "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
+    "PythonCourseNotes/Section_8/Section 8.md",
+    "PythonCourseNotes/Section_8/Coding",
+    "PythonCourseNotes/Section_8/Lecture",
     "PythonCourseNotes/Section_7/Section 7.md",
+    "PythonCourseNotes/Section_4/Center Notes/Booleans.md",
+    "PythonCourseNotes/Section_8",
+    "PythonCourseNotes/Section_4/Center Notes/Rational Numbers.md",
+    "PythonCourseNotes/Section_4/Center Notes/Integers.md",
+    "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
+    "PythonCourseNotes/Section_4/Center Notes/Decimals - Center.md",
+    "PythonCourseNotes/Section_4/Lectures/Booleans - Lecture.md",
+    "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
+    "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
+    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
+    "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/9. Parameter Defaults BEWARE - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/8. Putting it all Together - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/7. kwargs - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/6. Keyword Arguments - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/5. args - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/4. Extended Unpacking - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/3. Unpacking Iterables - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/2. Positional and Keyword Arguments - Lecture.md",
+    "PythonCourseNotes/Section_5/Lectures/1. Argument vs Parameter.md",
+    "PythonCourseNotes/Section_6/Lectures/9. Operator Module - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures/8. Partial Functions - Lecture.md",
+    "PythonCourseNotes/Section_6/Lectures/7. Reduction Function - Lecture.md",
     "PythonCourseNotes/Section_7/Center Notes",
-    "PythonCourseNotes/Section_7/Center Notes.md",
-    "PythonCourseNotes/Section_7/Application/8. Decorator (Dispatching) Part 3 - Application.md",
-    "PythonCourseNotes/Section_7/Application/7. Decorator (Dispatching) Part 2 - Application.md",
-    "PythonCourseNotes/Section_7/Application/6. Decorator (Dispatching) Part 1 - Application.md",
-    "PythonCourseNotes/Section_7/Application/5. Decorator (Decorating Classes) - Application.md",
-    "PythonCourseNotes/Section_7/Application/4. Decorator (Decorator Class) - Application.md",
-    "PythonCourseNotes/Section_7/Coding/5. Decorator Factories - Code.md",
-    "PythonCourseNotes/Section_7/Lectures/7. Decorator Factories - Lecture.md",
-    "PythonCourseNotes/Section_7/Application/3. Decorator (Memoization) - Application.md",
-    "PythonCourseNotes/Section_7/Lectures/6.  Decorators (Part 1) - Lecture.md",
     "PythonCourseNotes/Section_7/Application",
-    "PythonCourseNotes/Section_7/Coding/4. Decorators (Part 1) - Code.md",
-    "PythonCourseNotes/Section_7/Lectures/5. Closure Application (Part 2) - Lecture.md",
-    "PythonCourseNotes/Section_7/Lectures/4. Closure Application (Part 1) - Lecture.md",
-    "PythonCourseNotes/Section_7/Coding/4. Closure Application - Code.md",
-    "PythonCourseNotes/Section_7/Coding/3. Closures - Code.md",
-    "PythonCourseNotes/Section_7/Lectures/3. Closures - Lecture.md",
-    "PythonCourseNotes/Section_7/Coding/2. Nonlocal Scopes - Code.md",
-    "PythonCourseNotes/Section_7/Coding/1. Global & Local Scopes - Code.md",
-    "PythonCourse Office.md",
-    "PythonCourseNotes/Section_7/Lectures/2. Nonlocal Scopes - Lecture.md",
     "PythonCourseNotes/Section_7/Lectures",
     "PythonCourseNotes/Section_7/Coding",
     "PythonCourseNotes/Section_7",
     "PythonCourseNotes/Section_6/Lectures",
     "PythonCourseNotes/Section_6/Coding",
-    "PythonCourseNotes/Section_6",
-    "PythonCourseNotes/Section_5/Coding",
-    "PythonCourseNotes/Section_5/Lectures",
     "Untitled.canvas"
   ]
 }
