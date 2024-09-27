@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
+                "file": "PythonCourseNotes/Section_9/Coding/8. What are Packages - Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa1dcecdbd239265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
+                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
+                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md"
+                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md"
               }
             }
           }
@@ -143,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,44 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3714b309f9f2b8fa",
+  "active": "aa1dcecdbd239265",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_8/Coding/1. Tuples as Data Structures - Code.md",
-    "PythonCourseNotes/Section_8/Lecture/1. Tuples as Data Structures - Lecture.md",
+    "PythonCourseNotes/Section_8/Coding/2. Named Tuples - Code.md",
+    "PythonCourseNotes/Section_9/Coding/8. What are Packages - Code.md",
+    "PythonCourse Office.md",
+    "PythonCourseNotes/Section_7/Section 7.md",
+    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
+    "PythonCourseNotes/Section_7/Lectures/1. Global & Local Scopes - Lecture.md",
+    "PythonCourseNotes/Section_7/Lectures/7. Decorator Factories - Lecture.md",
+    "PythonCourseNotes/Section_7/Coding/5. Decorator Factories - Code.md",
+    "PythonCourseNotes/Section_4/Coding/Complex Numbers/Complex Numbers - Code.md",
+    "PythonCourseNotes/Section_9/Lecture/8. What are Packages - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/7. Modules Recap - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/6. Using __main__ - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/5. Reloading Modules - Lecture.md",
+    "PythonCourseNotes/Section_9/Coding/4. Import Variants and Misconceptions - Code.md",
+    "PythonCourseNotes/Section_9/Lecture/4. Import Variants and Misconceptions - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/3. Imports and Importlib - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/2. How does Python import Modules - Lecture.md",
+    "PythonCourseNotes/Section_9/Lecture/1. What is a Module - Lecture.md",
+    "PythonCourseNotes/Section_9/Section 9.md",
+    "PythonCourseNotes/Section_9/Center Notes",
+    "PythonCourseNotes/Section_9/Ce.md",
     "PythonCourseNotes/Section_8/Section 8.md",
+    "PythonCourseNotes/Section_9/Application",
+    "PythonCourseNotes/Section_9/Coding",
+    "PythonCourseNotes/Section_9/Lecture",
+    "PythonCourseNotes/Section_9",
+    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Codes.md",
+    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Lectures.md",
+    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Application.md",
+    "PythonCourseNotes/Section_8/Center Notes",
+    "PythonCourseNotes/Section_8/Application/2. Named Tuples(Alternative to Dictionaries) - Application.md",
+    "PythonCourseNotes/Section_8/Application/1. Named Tuples(Returning Multiple Values) - Application.md",
+    "PythonCourseNotes/Section_8/Application",
     "PythonCourseNotes/Section_8/Coding",
     "PythonCourseNotes/Section_8/Lecture",
-    "PythonCourseNotes/Section_7/Section 7.md",
-    "PythonCourseNotes/Section_4/Center Notes/Booleans.md",
     "PythonCourseNotes/Section_8",
-    "PythonCourseNotes/Section_4/Center Notes/Rational Numbers.md",
-    "PythonCourseNotes/Section_4/Center Notes/Integers.md",
-    "PythonCourseNotes/Section_4/Center Notes/Floats - Center.md",
-    "PythonCourseNotes/Section_4/Center Notes/Decimals - Center.md",
-    "PythonCourseNotes/Section_4/Lectures/Booleans - Lecture.md",
-    "PythonCourseNotes/Section_3/Notes_GarbageCollection/Garbage Collection.md",
-    "PythonCourseNotes/Section_3/Notes_PyOptInterning/Python optimizations - Interning.md",
-    "PythonCourseNotes/Section_4/Center Notes/Section 4.md",
-    "PythonCourseNotes/Section_5/Lectures/10. Parameter Defaults BEWARE AGAIN - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/9. Parameter Defaults BEWARE - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/8. Putting it all Together - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/7. kwargs - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/6. Keyword Arguments - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/5. args - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/4. Extended Unpacking - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/3. Unpacking Iterables - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/2. Positional and Keyword Arguments - Lecture.md",
-    "PythonCourseNotes/Section_5/Lectures/1. Argument vs Parameter.md",
-    "PythonCourseNotes/Section_6/Lectures/9. Operator Module - Lecture.md",
-    "PythonCourseNotes/Section_6/Lectures/8. Partial Functions - Lecture.md",
-    "PythonCourseNotes/Section_6/Lectures/7. Reduction Function - Lecture.md",
-    "PythonCourseNotes/Section_7/Center Notes",
-    "PythonCourseNotes/Section_7/Application",
-    "PythonCourseNotes/Section_7/Lectures",
-    "PythonCourseNotes/Section_7/Coding",
-    "PythonCourseNotes/Section_7",
-    "PythonCourseNotes/Section_6/Lectures",
-    "PythonCourseNotes/Section_6/Coding",
     "Untitled.canvas"
   ]
 }
