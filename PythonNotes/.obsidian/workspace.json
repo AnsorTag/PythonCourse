@@ -21,26 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PythonCourseNotes/Section_9/Coding/8. What are Packages - Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa1dcecdbd239265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
+                "file": "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Section 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 348.5
   },
   "right": {
     "id": "929e49fe15f6f3fa",
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PythonCourseNotes/Section_8/Lecture/3. Named Tuples(Modifying & Expanding) - Lecture.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,44 +150,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa1dcecdbd239265",
+  "active": "e83f9bb200abde1e",
   "lastOpenFiles": [
-    "PythonCourseNotes/Section_8/Coding/2. Named Tuples - Code.md",
-    "PythonCourseNotes/Section_9/Coding/8. What are Packages - Code.md",
-    "PythonCourse Office.md",
-    "PythonCourseNotes/Section_7/Section 7.md",
-    "PythonCourseNotes/Section_7/Center Notes/Section 7 - Lecture.md",
-    "PythonCourseNotes/Section_7/Lectures/1. Global & Local Scopes - Lecture.md",
-    "PythonCourseNotes/Section_7/Lectures/7. Decorator Factories - Lecture.md",
-    "PythonCourseNotes/Section_7/Coding/5. Decorator Factories - Code.md",
-    "PythonCourseNotes/Section_4/Coding/Complex Numbers/Complex Numbers - Code.md",
-    "PythonCourseNotes/Section_9/Lecture/8. What are Packages - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/7. Modules Recap - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/6. Using __main__ - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/5. Reloading Modules - Lecture.md",
-    "PythonCourseNotes/Section_9/Coding/4. Import Variants and Misconceptions - Code.md",
-    "PythonCourseNotes/Section_9/Lecture/4. Import Variants and Misconceptions - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/3. Imports and Importlib - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/2. How does Python import Modules - Lecture.md",
-    "PythonCourseNotes/Section_9/Lecture/1. What is a Module - Lecture.md",
-    "PythonCourseNotes/Section_9/Section 9.md",
-    "PythonCourseNotes/Section_9/Center Notes",
-    "PythonCourseNotes/Section_9/Ce.md",
-    "PythonCourseNotes/Section_8/Section 8.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Section 11.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/8. Sentinel Values for Parameter Defaults - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/7. Command Line Arguments - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/6. Don't Use args and kwargs Names Blindly -  Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/5. Time code using 'timeit' - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/4. Random Samples - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/3. Random Choices - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/2. Random (Seeds) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/1. Additional Resources - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Python3 - Deep Dive (Part 1 - Functional).md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/8. Python 3.6 (f Strings) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/7. Python 3.6 (Preserved Order of kwargs and Named Tuple Application) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Section 10.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/6. Python 3.6 (Underscores in Numeric Literals) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/5. Python 3.6 (Directory Ordering) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/4. Python 3.6 Highlights - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/3. Python 3.8 & 3.7 - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Section 9.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/1. Python 3.10 - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/2. Python 3.9 - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10",
+    "AllCourses/CS50 Harvard Python Course Notes/Try-except-else-pass.md",
+    "AllCourses/CS50 Harvard Python Course Notes/Packages.md",
+    "AllCourses/CS50 Harvard Python Course Notes/Random.md",
+    "AllCourses/CS50 Harvard Python Course Notes/Slice.md",
+    "AllCourses/CS50 Harvard Python Course Notes/matchCase.md",
+    "AllCourses/CS50 Harvard Python Course Notes/Lists.md",
+    "AllCourses",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Center Notes",
     "PythonCourseNotes/Section_9/Application",
-    "PythonCourseNotes/Section_9/Coding",
-    "PythonCourseNotes/Section_9/Lecture",
-    "PythonCourseNotes/Section_9",
-    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Codes.md",
-    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Lectures.md",
-    "PythonCourseNotes/Section_8/Center Notes/Section 8 - Application.md",
-    "PythonCourseNotes/Section_8/Center Notes",
-    "PythonCourseNotes/Section_8/Application/2. Named Tuples(Alternative to Dictionaries) - Application.md",
-    "PythonCourseNotes/Section_8/Application/1. Named Tuples(Returning Multiple Values) - Application.md",
-    "PythonCourseNotes/Section_8/Application",
-    "PythonCourseNotes/Section_8/Coding",
-    "PythonCourseNotes/Section_8/Lecture",
-    "PythonCourseNotes/Section_8",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Coding",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Lecture",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9",
     "Untitled.canvas"
   ]
 }
