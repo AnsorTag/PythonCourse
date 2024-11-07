@@ -8,23 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e83f9bb200abde1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "72b78aff3ac7fbcf",
+            "id": "a845a89d7fd84e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Section 11.md",
+                "file": "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/10. Custom Sequences (Part 2C) - Code.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10. Custom Sequences (Part 2C) - Code"
             }
           }
         ]
@@ -47,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "decorator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 424.5
   },
   "right": {
     "id": "929e49fe15f6f3fa",
@@ -100,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -111,7 +113,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -122,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -138,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83f9bb200abde1e",
+  "active": "a845a89d7fd84e51",
   "lastOpenFiles": [
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/10. Custom Sequences (Part 2B) - Code.md",
     "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Section 11.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/8. Sentinel Values for Parameter Defaults - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/7. Command Line Arguments - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/6. Don't Use args and kwargs Names Blindly -  Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/5. Time code using 'timeit' - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/4. Random Samples - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/3. Random Choices - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/2. Random (Seeds) - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture/1. Additional Resources - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/10. Custom Sequences (Part 2) - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/10. Custom Sequences (Part 2A) - Code.md",
     "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Python3 - Deep Dive (Part 1 - Functional).md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/8. Python 3.6 (f Strings) - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/7. Python 3.6 (Preserved Order of kwargs and Named Tuple Application) - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Section 10.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Python3 - Deep Dive (Part 2 - Iterators, Generators).md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Section2.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_2/Section 2.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_2/Notes_Conditionals/Conditionals.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_2/Notes_Classes/Classes.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_2/Notes_BreakTryContinue/Break, Try, and Continue.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_7/Application/1. Decorator (Timer) - Application.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/10. Custom Sequences (Part 2C) - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/9. Assignments in Mutable Sequences - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/9. Assignments in Mutable Sequences - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_6/Coding/9. Operator Module - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_7/Application/5. Decorator (Decorating Classes) - Application.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/8. In-Place Concatenation and Repetition - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/8. In-Place Concatenation and Repetition - Lecture.md",
+    "Docker/Docker - 100+ Concepts.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/7. Custom Sequences (Part 1) - Lecture.md",
+    "Docker",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/7. Custom Sequences (Part 1) - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/6. Slicing - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/6. Slicing - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding/5. Copying Sequences - Code.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture/5. Copying Sequences - Lecture.md",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Coding",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types/Lecture",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES/Section_2 - Sequence Types",
+    "AllCourses/Python3 - Deep Dive (Part 2 - Iterators, Generators)_NOTES",
+    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11/Lecture",
     "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_11",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/6. Python 3.6 (Underscores in Numeric Literals) - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/5. Python 3.6 (Directory Ordering) - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/4. Python 3.6 Highlights - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/3. Python 3.8 & 3.7 - Lecture.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Section 9.md",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/1. Python 3.10 - Lecture.md",
     "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10/Lecture/2. Python 3.9 - Lecture.md",
     "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_10",
-    "AllCourses/CS50 Harvard Python Course Notes/Try-except-else-pass.md",
-    "AllCourses/CS50 Harvard Python Course Notes/Packages.md",
-    "AllCourses/CS50 Harvard Python Course Notes/Random.md",
-    "AllCourses/CS50 Harvard Python Course Notes/Slice.md",
-    "AllCourses/CS50 Harvard Python Course Notes/matchCase.md",
-    "AllCourses/CS50 Harvard Python Course Notes/Lists.md",
     "AllCourses",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Center Notes",
-    "PythonCourseNotes/Section_9/Application",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Coding",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9/Lecture",
-    "AllCourses/Python3 - Deep Dive (Part 1 - Functional)_NOTES/Section_9",
     "Untitled.canvas"
   ]
 }
